@@ -1,0 +1,36 @@
+List of contents 
+ -Employees Class
+  --Health Care Providers
+    ---Doctors CLass
+       * Family Physician. ...
+       * Internal Medicine Physician. ...
+       * Pediatrician. ...
+       * Obstetrician/Gynecologist (OB/GYN) 
+       * Surgeon. ...
+       * Psychiatrist. ...
+       * Cardiologist. ...
+       * Dermatologist. ...
+       * Endocrinologist. ...
+       * Gastroenterologist. ...
+
+    ---Nurses Class
+         * Agency Nurse.
+         * Ambulatory Care.
+         * Nurse Anesthetists.
+         * Cardiac Care Nurse.
+         * Case Management.
+         * Critical Care Nurse.
+         * Emergency Nurse.
+         * Forensic Nurse.
+         * Gastroenterology Nurse.
+         * Geriatric Nurse.
+ -Administrative Staffs 
+ 
+-Patient Class
+     --PHR
+-Pharmacy Class
+     --Drugs
+-
+-Medical Equipments Class
+-Create Medical Record /Option
+-Login In (as different type of Employee)
